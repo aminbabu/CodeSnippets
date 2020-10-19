@@ -1,0 +1,19 @@
+<!-- On Page JavaScript inside head tag-->
+<!-- <script>
+document.write("Hello, JavaScrit!");
+</script> -->
+
+
+
+<!-- External JavaScipt -->
+<!-- <script src="js/javaScript.js"></script> -->
+
+
+
+// document.write to write something inside html document
+// document.write("Hello, JavaScript!");
+
+
+
+// console.log for printing output on browser console.
+// console.log("Hello, there!");
