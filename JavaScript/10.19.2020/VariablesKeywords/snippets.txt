@@ -1,0 +1,36 @@
+// Variable keywords {var, let, const}
+
+// Using var keyword
+var name = 'Siri';
+console.log(name);
+
+// var name = 'John';
+// console.log(name);
+
+// name = 'Rita';
+// console.log(name);
+
+
+
+// Using let keyword
+let name = 'Siri';
+console.log(name);
+
+// let name = 'John';
+// console.log(name);
+
+// name = 'Rita';
+// console.log(name);
+
+
+
+
+// Using const keyword
+const name = 'Siri';
+console.log(name);
+
+// const name = 'John';
+// console.log(name);
+
+// name = 'Rita';
+// console.log(name);

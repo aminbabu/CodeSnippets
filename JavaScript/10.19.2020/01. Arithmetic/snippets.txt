@@ -1,0 +1,38 @@
+// JavaScript Arithmetic Operators: +, -, *, /, %, ++, --, **
+var x = 10;
+var y = 4;
+
+// Adition
+// var sum = x + y;
+// document.write('X + Y = ' + sum);
+
+
+// Substraction
+// var sub = x - y;
+// document.write('X - Y = ' + sub);
+
+
+// Multiplication
+// var mul = x * y;
+// document.write('X * Y = ' + mul);
+
+
+// Division
+// var division = x / y;
+// document.write('X / Y = ' + division);
+
+
+// Reminder
+// var reminder = x % y;
+// document.write('X % Y = ' + reminder);
+
+
+// Increment
+// document.write('After increment x is: ' x++);
+
+// Increment
+// document.write('After decrement y is: ' y--);
+
+// Exponentiation
+// var expo = x ** y;
+// document.write('x ** y = ' + expo);
