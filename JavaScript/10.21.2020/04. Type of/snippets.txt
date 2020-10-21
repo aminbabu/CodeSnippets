@@ -1,0 +1,13 @@
+// Use typeof Operator
+
+var integer = 20;
+var str = '10';
+var bool = true;
+var arr = [4, 4, 6, 7, 6, 'Hi'];
+var obj = {
+  firstName: 'Nil',
+  lastName: 'Jonh',
+  fullName: function() {
+    return this.firstName + " " + this.lastName;
+  }
+};

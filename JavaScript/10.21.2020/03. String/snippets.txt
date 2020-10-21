@@ -1,0 +1,30 @@
+// String Operator: +
+// Using numbers
+var x = 20;
+var y = 10;
+window.alert(x + y);
+
+x = 20.34;
+y = 1.54;
+window.alert(x + y);
+
+
+
+// Using strings
+var x = "Hi";
+var y = "there";
+window.alert(x + y);
+// window.alert(x + " " + y);
+
+x = '20';
+y = 14;
+window.alert(x + y);
+
+
+
+// Together with numbers & strings
+var x = 'Hello';
+var y = 10;
+
+window.alert(x + y);
+// window.alert(y + x);
